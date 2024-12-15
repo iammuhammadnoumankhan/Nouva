@@ -2,7 +2,7 @@ import asyncio
 from ollama import AsyncClient
 
 # Define the host and model parameters.
-HOST = "http://10.4.136.182:11434"  # http://localhost:11434
+HOST = "http://localhost:11434"  # http://localhost:11434
 MODEL = 'llama3.2'
 
 
