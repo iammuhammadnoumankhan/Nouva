@@ -86,7 +86,7 @@ Watch the complete walkthrough of Nouva in action on YouTube:
 Feel free to fork the repository and submit pull requests to enhance Nouva’s functionality. For major changes, open an issue first to discuss your ideas.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Apache License.
 
 ---
 
