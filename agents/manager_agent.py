@@ -41,7 +41,7 @@ def transfer_to_python_repl_assistant(**args):
 # Manager Agent
 manager_agent = Agent(
     name="Manager Assistant",
-    instructions="You help users by directing them to the right assistant. write now we have [transfer_to_weather_assistant, transfer_to_stockprice_assistant, transfer_to_arxiv_assistant, transfer_to_duckduckgo_assistant, transfer_to_python_repl_assistant]. transfer to the right assistant.",
+    instructions="You help users by directing them to the right agent as per there query. write now we have [transfer_to_weather_assistant, transfer_to_stockprice_assistant, transfer_to_arxiv_assistant, transfer_to_duckduckgo_assistant, transfer_to_python_repl_assistant]. transfer to the right assistant.",
     functions=[
         transfer_to_weather_assistant, 
         transfer_to_stockprice_assistant, 
