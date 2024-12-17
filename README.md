@@ -66,7 +66,7 @@ Once launched, Nouva operates through its CLI interface. Interact with Nouva to 
 ## Samples
 Here are some screenshots and demonstrations of Nouva in action:
 
-![Sample 1](samples/sample1.png)
+![Sample 1](samples/sample5.png)
 ![Sample 2](samples/sample2.png)
 
 For more samples, check out the [samples folder](samples/).
